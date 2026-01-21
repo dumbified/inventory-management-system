@@ -1,7 +1,6 @@
 ## Inventory Management System
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Swing](https://img.shields.io/badge/GUI-Swing-blue)](https://docs.oracle.com/javase/8/docs/technotes/guides/swing/)
 [![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 A simple Java desktop application (Swing) for managing products, inventory, and sales with a user‑friendly GUI.  
@@ -41,3 +40,4 @@ From the project root:
 
 - **username**: `admin`
 - **password**: `123456`
+
